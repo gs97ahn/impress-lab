@@ -1,4 +1,4 @@
-# 젯슨나노에서 구현 가능한 음성인식
+# NVIDIA Jetson Nano에서 구현 가능한 음성인식
 
 ## NeMo Framework
 ##### reference: https://colab.research.google.com/github/NVIDIA/NeMo/blob/stable/tutorials/asr/ASR_with_NeMo.ipynb#scrollTo=YLln3U-IlRzg
