@@ -1,6 +1,6 @@
-# NVIDIA Jetson Nano에서 구현 가능한 음성인식
+# NVIDIA NeMo Framework로 구현 가능한 음성인식
 
-## NeMo Framework
+## NVIDIA NeMo
 ##### reference: https://colab.research.google.com/github/NVIDIA/NeMo/blob/stable/tutorials/asr/ASR_with_NeMo.ipynb#scrollTo=YLln3U-IlRzg
 
 ### ASR은 무엇인가?
@@ -43,3 +43,8 @@
 - AN4 데이터셋은 글자와 숫자로된 데이터셋이고 Carnegie Mellon University에서 수집하고 공개하였다.
 - AN4는 사람들이 주소, 이름, 전화번호 등의 철자를 말하고 그것을 음성으로 말한것을 녹음한것이다.
 - 948번의 학습과 130의 음성 테스트를 한것으로 학습이 매우 빠르다.
+
+### Spectrograms and Mel Spectrograms
+- Fourier Transform을 audio signal에 적용해 더 유용한 정보를 얻을 수 있다.
+  - Fourier Transform(푸리에 변환): mathematical transform that decomposes function depeding on space or time into functions depending on spatial or temporal frequency.
+- Spectrogram을 통해서 다양한 진동의 힘을 시간에 비례해서 볼 수 있고 Short-Time Fourier Transform(STFT)를 통해 더 작은 주파수로 나눌 수 있다.
