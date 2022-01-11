@@ -1,4 +1,4 @@
-# NVIDIA NeMo Framework로 구현 가능한 음성인식
+# NVIDIA NeMo Framework로 가능한 음성인식
 
 ## NVIDIA NeMo
 ##### reference: https://colab.research.google.com/github/NVIDIA/NeMo/blob/stable/tutorials/asr/ASR_with_NeMo.ipynb#scrollTo=YLln3U-IlRzg
