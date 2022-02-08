@@ -10,3 +10,5 @@ NVIDIA NeMo Framework로 가능한 음성인식 정리본입니다.
 
 ### Speech recording with wake word
 NVIDIA Jetson Nano로 구현 가능한 Speech recording with wake word입니다.
+- wake word는 pvporcupine api를 사용
+- speech recording은 pyaudio를 사용
