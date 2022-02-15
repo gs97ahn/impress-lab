@@ -13,7 +13,7 @@ NVIDIA Jetson Nano로 구현 가능한 speech recording with wake word입니다.
 - wake word는 pvporcupine를 사용
 - speech recording은 pyaudio를 사용
 
-### [Detect and Record Audio]
+### [Detect and Record Audio](https://github.com/gs97ahn/impress_lab/blob/main/detect_and_record_audio.ipynb)
 NVIDIA Jetson Nano로 구현 가능한 detect and record audio입니다.
 - pyaudio.paInt16 포맷의 음성
 - THRESHOLD가 3000 이상일 경우에만 녹음
