@@ -17,3 +17,9 @@ NVIDIA Jetson Nano로 구현 가능한 speech recording with wake word입니다.
 NVIDIA Jetson Nano로 구현 가능한 detect and record audio입니다.
 - pyaudio.paInt16 포맷의 음성
 - THRESHOLD가 3000 이상일 경우에만 녹음
+
+### [Urban Sound Classification MFCC 2 Class](https://github.com/gs97ahn/impress_lab/blob/main/urban_sound_classification_mfcc_2class.ipynb)
+MFCC Feature Extraction을 사용하여 Sound Classification이 가능한 모델입니다.
+- MFCC
+- optimizer: Adam
+- Loss: Categorical crossentropy
