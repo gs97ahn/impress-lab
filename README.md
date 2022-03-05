@@ -24,7 +24,7 @@ MFCC Feature Extraction을 사용하여 Sound Classification이 가능한 모델
 - optimizer: Adam
 - Loss: Categorical crossentropy
 
-### [Urban Sound Classification Mel-Spectrogram 2 Class]
+### [Urban Sound Classification Mel-Spectrogram 2 Class](https://github.com/gs97ahn/impress_lab/blob/main/urban_sound_classification_mel-spectrogram_2class.ipynb)
 Mel-Spectrogram Feature Extraction을 사용하여 Sound Classification이 가능한 모델 구현 코드입니다.
 - Mel-Spectrogram
 - optimizer: Adam
